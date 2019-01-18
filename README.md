@@ -1,1 +1,2 @@
 # PrimeNumberSieveWithGui
+This project was done after learning to code 2 months. Initially it was just for myself to learn how to build a GUI and implement some code. Hence as it is a simple GUI it does not implement any MVC model. 
